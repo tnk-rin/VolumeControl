@@ -25,16 +25,11 @@
   <ItemGroup>
     <ClInclude Include="volumecontrol.h" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="Documentation.htm">
-      <DeploymentContent>true</DeploymentContent>
-    </None>
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{2a4282db-c2bf-40a8-a0ea-dfcf538ae3cd}</ProjectGuid>
-    <RootNamespace>VolumeDriverCpp</RootNamespace>
+    <RootNamespace>VolumeControl</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>VolumeDriverCpp</ProjectName>
   </PropertyGroup>
