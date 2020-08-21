@@ -1,0 +1,2 @@
+﻿  volumecontrol.cpp
+C:\Users\thoma\Source\Repos\VolumeDriverCpp\VolumeDriverCpp\volumecontrol.cpp(13): warning C6031: Return value ignored: 'CoInitialize'.
